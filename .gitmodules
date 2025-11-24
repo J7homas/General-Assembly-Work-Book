@@ -1,0 +1,6 @@
+[submodule "assignment-1"]
+	path = assignment-1
+	url = git@github.com:J7homas/Intro-Js-Func.git
+[submodule "assignment-2"]
+	path = assignment-2
+	url = git@github.com:J7homas/Js-Arrays.git
